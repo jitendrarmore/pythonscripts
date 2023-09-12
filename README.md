@@ -1,2 +1,5 @@
+
+
 # pythonscripts
-all ython scripts
+all python scripts
+Auther: Jitendra More
