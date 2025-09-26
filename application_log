@@ -1,0 +1,19 @@
+2025-07-12 10:15:42,123 - INFO - Starting application
+2025-07-12 10:15:45,456 - ERROR - Failed to connect to DB, error_code=500, error_code=300
+2025-07-12 10:15:46,789 - WARN - Retry attempt 1
+2025-07-12 10:15:48,321 - ERROR - Service unavailable, error_code=503
+2025-07-12 10:15:50,654 - ERROR - Bad request received, error_code=400
+2025-07-12 10:15:51,987 - INFO - Request processed successfully
+2025-07-12 10:15:52,111 - ERROR - Internal error occurred, error_code=500
+2025-07-12 10:15:53,333 - ERROR - Gateway timeout, error_code=504
+2025-07-12 10:15:55,555 - ERROR - Unauthorized access, error_code=401
+2025-07-12 10:15:56,777 - ERROR - Internal error occurred, error_code=500
+2025-07-12 10:15:57,999 - ERROR - Service unavailable, error_code=503
+2025-07-12 10:15:58,000 - INFO - Heartbeat received
+2025-07-12 10:16:00,101 - ERROR - Bad request received, error_code=400
+2025-07-12 10:15:45,456 - ERROR - Failed to connect to DB, error_code=500
+2025-07-12 10:15:45,456 - ERROR - Failed to connect to DB, error_code=500
+2025-07-12 10:15:45,456 - ERROR - Failed to connect to DB, error_code=500
+2025-07-12 10:15:45,456 - ERROR - Failed to connect to DB, error_code=500
+2025-07-12 10:15:45,456 - ERROR - Failed to connect to DB, error_code=500
+
